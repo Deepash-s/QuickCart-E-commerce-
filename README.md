@@ -6,7 +6,3 @@ QuickCart is a simple and responsive e-commerce website built with HTML, CSS, an
 ![Screenshot 2024-09-14 174605](https://github.com/user-attachments/assets/512cf648-6cec-427d-a3b7-13ba7cd48580)
 ![Screenshot 2024-09-14 174605](https://github.com/user-attachments/assets/caff874f-1645-40d3-89a6-1acf95d986e5)
 ![Uploading Screenshot 2024-09-14 174519.png…]()
-![Uploading Screenshot 2024-09-14 174605.png…]()
-![Screenshot 2024-09-14 174618](https://github.com/user-attachments/assets/2e6b50f9-36a4-4999-9242-fc319d269b94)
-![Screenshot 2024-09-14 174618](https://github.com/user-attachments/assets/221a00a8-e6ce-454b-8480-40171183e199)
-![Uploading Screenshot 2024-09-14 174618.png…]()
